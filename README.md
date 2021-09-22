@@ -14,7 +14,7 @@ I am practicing to create a website using GitHub. All suggestions are welcome.
 <body>
 <h1 style="color:LightGrey;"> Work in progress </h1>
 
-<p><u>Use it with care.</p></u>
+<p> Use it with care </p>
 
 </body>
 </html>
