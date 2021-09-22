@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1 style="color:Tomato;">Manisha's website</h1>
+<h3 style="color:Tomato;"> Manisha's website </h3>
 
 </body>
 </html>
