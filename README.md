@@ -1,6 +1,6 @@
 
 <html>
-<p>&#128514;</p>
+
 <h1 style="color:Tomato;"> Manisha's website </h1>
 
  <b> I am practicing to create a website using GitHub. All suggestions are welcome!</b>
