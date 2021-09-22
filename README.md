@@ -1,7 +1,7 @@
 
 <html>
 
-<h1 style="text-align:center"; style="color:Tomato;"> Manisha's website </h1>
+<h1 style="text-align:center"; Manisha's website </h1>
 
  <b> I am practicing to create a website using GitHub. All suggestions are welcome!</b>
 
