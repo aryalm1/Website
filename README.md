@@ -5,9 +5,7 @@
 
  <b> I am practicing to create a website using GitHub. All suggestions are welcome!</b>
 
-<picture>
-  <source srcset="img_smallflower.jpg" media="(max-width: 600px)">
- </picture>
+
 <body>
 <h1 style="color:LightGrey;"> Work in progress </h1>
 
