@@ -1,9 +1,9 @@
 
 <html>
 <body>
-
+<meta charset="UTF-8">
 <h1 style="color:Tomato;"> Manisha's website </h1>
-
+<p>&#128512;</p>
 </body>
 </html>
 
