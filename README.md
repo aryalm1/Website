@@ -1,13 +1,9 @@
 
 <html>
-<head>
-<meta charset="UTF-8">
-</head>
+
 <h1 style="color:Tomato;"> Manisha's website </h1>
 
-
 I am practicing to create a website using GitHub. All suggestions are welcome.
-
 
 
 <body>
