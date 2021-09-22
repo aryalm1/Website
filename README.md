@@ -1,7 +1,7 @@
 
    <head>
       <h1 style= "text-align:center;"> Manisha's website </h1>
-      <h1 style="color:Tomato;"> Manisha's website </h1>
+      <p style="color:Tomato;"> Manisha's website </p>
    </head>
    
 <body>
