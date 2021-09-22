@@ -11,11 +11,10 @@ I am practicing to create a website using GitHub. All suggestions are welcome.
 
 
 <html>
-<body style="background-color:powderblue;">
 
-<h1> Work in progress</h1>
+<h1 style="color:LightGrey;"> Work in progress </h1>
 
-<p>Use it with care.</p>
+<p><u>Use it with care.</p></u>
 
 </body>
 </html>
