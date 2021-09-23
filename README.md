@@ -1,6 +1,7 @@
-<Title> HOMEPAGE </title>
+
 <head>
   <h style = "text-allign.center";> MyWebsight </h>
+  <h style="background.color:Tomato" </h>
 </head>
 
 <body>
