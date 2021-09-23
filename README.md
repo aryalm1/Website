@@ -1,7 +1,8 @@
- <head>
-    <Title> My Homepage </title>
- </head>
-   
+
+<head>
+  <title>HTML Elements Reference</title>
+</head>
+
 <body>
    <b> I am practicing to create a website using GitHub. All suggestions are welcome!</b>
    <h1 style="color:LightGrey;"> Work in progress </h1>
