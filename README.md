@@ -6,7 +6,7 @@
 <body>
    <b> I am creating a website using GitHub. All suggestions are welcome!</b>
    <h1 style="color:LightGrey;"> Work in progress </h1>
-   <p> Dog lover over here &#128072; </p> 
+  <p><i>Dog lover over here &#128072;</i></p> 
    <a href="https://www.youtube.com/watch?v=n4QSYx4wVQg">Let's annoy everyone today... CLICK ME!!!!!<p style="font-size:100px"> &#128514;</p></a>
    <p align="center">
   
