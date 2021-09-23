@@ -10,7 +10,7 @@
    <a href="https://www.youtube.com/watch?v=n4QSYx4wVQg">Let's annoy everyone today... CLICK ME!!!!!<p>&#128514;</p></a>
   
   <style>
-    background-image: url('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/img-4537-1517349576.jpg?crop=1xw:1xh;center,top&resize=768:*');
+    background-image: url('img-allo);
   </style>
 </body>
 
