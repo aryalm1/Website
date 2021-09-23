@@ -10,7 +10,7 @@
    <a href="https://www.youtube.com/watch?v=n4QSYx4wVQg">Let's annoy everyone today... CLICK ME!!!!!<p>&#128514;</p></a>
    <p align="center">
   
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://github.com/aryalm1/Website/blob/main/img-allo.jpeg?raw=true" width="350" alt="Hoddu">
 </p>
  
 </body>
