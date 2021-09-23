@@ -1,4 +1,5 @@
  <head>
+ <Title> My homepage </title>
       <h1 style= "allign:center";> Manisha's website </h1>
  </head>
    
