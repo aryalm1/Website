@@ -1,4 +1,4 @@
-
+<Title> HOMEPAGE </title>
 <head>
   <h style = "text-allign.center";> MyWebsight </h>
 </head>
