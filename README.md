@@ -1,6 +1,6 @@
 
 <head>
-  <h1 style= “text-align:center;”,"color:LightGrey;"> Manisha's Websight</h1>
+  <h1 style= “text-align:center;” , style = "color:LightGrey;"> Manisha's Websight</h1>
 </head>
 
 <body>
