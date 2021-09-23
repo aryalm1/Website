@@ -1,6 +1,6 @@
 
 <head>
-  <h1 style= “text-align:center;color:green;”> Manisha's Websight</h1>
+  <p style= “text-align:center;color:green;”> Manisha's Websight</p>
 </head>
 
 <body>
