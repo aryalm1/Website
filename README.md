@@ -1,6 +1,6 @@
  <head>
  <Title> My homepage </title>
-      <h1 style= "allign:center";> Manisha's website </h1>
+      <h1 style= "text-allign:center";> Manisha's website </h1>
  </head>
    
 <body>
