@@ -1,7 +1,6 @@
 
 <head>
-  <h style = "text-allign.center";> MyWebsight </h>
-  <p style="background-color= Red"; </p>
+  <h1 style=“text-align: center; color: green;”>Manisha's Websight</h2>
 </head>
 
 <body>
