@@ -1,7 +1,7 @@
 
 <head>
   <h style = "text-allign.center";> MyWebsight </h>
-  <h style="background-color= Red"; </h>
+  <p style="background-color= Red"; </p>
 </head>
 
 <body>
