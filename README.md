@@ -12,7 +12,6 @@
   
   <img src="https://github.com/aryalm1/Website/blob/main/img-allo.jpeg?raw=true" width="350" alt="Hoddu">
 </p>
- 
 </body>
 
 
