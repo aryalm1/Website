@@ -9,10 +9,9 @@
    <p> Use it with care </p>
    <a href="https://www.youtube.com/watch?v=n4QSYx4wVQg">Let's annoy everyone today... CLICK ME!!!!!<p>&#128514;</p></a>
   
-  <style>
+  
     <img src="img.allo.jpg" alt="Flowers in Chania"
-    background-image: url('img-allo.jpg');
-  </style>
+    
 </body>
 
 
