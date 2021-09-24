@@ -3,9 +3,9 @@
     
 </head>
 <body>
-  <div<b> style="text-align: center; style=color:Tomato;background-color: rgb(150, 161, 255); display:table; margin:auto; " id="clock">
+  <div style="text-align: center; style=color:Tomato;background-color: rgb(150, 161, 255); display:table; margin:auto; " id="clock">
             "My WebSite"
-    </div></b>
+   </div>
    <b> I am creating a website using GitHub. All suggestions are welcome!</b>
    <h1 style="color:blue;"> Work in progress </h1>
    <p><i><strong> Dog lover over here! &#128072;</strong></i></p> 
