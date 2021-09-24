@@ -4,12 +4,10 @@
       body{background-image: url("https://github.com/aryalm1/Website/blob/main/Fav.jpg?raw=true")}
    </style>
  <br>
- </head>
- <head>
-   <div style="text-align: center;background-color: tomato; " id="clock">
+ <div style="text-align: center;background-color: tomato; " id="clock">
        Manisha's Website
-   </div>
-</head> 
+ </div>
+</head>
 <body>
    <b> I am creating a website using GitHub. All suggestions are welcome!</b>
    <h1 style="color:blue;"> Work in progress </h1>
