@@ -3,6 +3,7 @@
   <h1 style = "color:Red;"> Manisha's Website</h1>
 </head>
 <body>
+  <h1 style = 'background-color:DodgerBlue';">
    <b> I am creating a website using GitHub. All suggestions are welcome!</b>
    <h1 style="color:LightGrey;"> Work in progress </h1>
    <p><i><strong> Dog lover over here! &#128072;</strong></i></p> 
