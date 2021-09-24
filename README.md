@@ -1,12 +1,12 @@
 
 <head>
    <style>
-      body{background-image: url(https://github.com/aryalm1/Website/blob/main/img-allo.jpeg?raw=true)}
+      body{background-image: url("https://github.com/aryalm1/Website/blob/main/Fav.jpg?raw=true")}
    </style>
  </head>
  <head>
    <div style="text-align: center;background-color: tomato; " id="clock">
-      <u><strong> Manisha's Website </u></strong>
+       Manisha's Website
    </div>
 </head> 
 <body>
