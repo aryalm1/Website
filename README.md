@@ -3,6 +3,8 @@
    <style>
       body{background-image: url(https://github.com/aryalm1/Website/blob/main/img-allo.jpeg?raw=true)}
    </style>
+ </head>
+ <head>
    <div style="text-align: center;background-color: tomato; " id="clock">
       <u><strong> Manisha's Website </u></strong>
    </div>
