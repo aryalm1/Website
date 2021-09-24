@@ -1,7 +1,7 @@
 
 <head>
-    <div style="text-align: center;background-color: tomato;  " id="clock">
-        <u> Manisha's Website </u>
+    <div style="text-align: center;background-color: tomato; " id="clock">
+        <u><strong> Manisha's Website </u></strong>
 </div>
 </head> 
 <body>
