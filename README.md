@@ -1,6 +1,8 @@
 
 <head>
-  <h1 style = "color:Red;"> Manisha's Website</h1>
+  div style="text-align: center;background-color: rgb(150, 161, 255); display:table; margin:auto; " id="clock">
+            "My WebSite 
+    </div>
 </head>
 <body>
    <b> I am creating a website using GitHub. All suggestions are welcome!</b>
