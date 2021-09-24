@@ -1,11 +1,10 @@
 
 <head>
-    
-</head>
+    <div style="text-align: center;background-color: rgb(150, 161, 255);  " id="clock">
+        <u> Manisha's Website </u>
+</div>
+</head> 
 <body>
-  <div style="text-align: center; style=color:Tomato;background-color: rgb(150, 161, 255); display:table; margin:auto; " id="clock">
-            "My WebSite"
-   </div>
    <b> I am creating a website using GitHub. All suggestions are welcome!</b>
    <h1 style="color:blue;"> Work in progress </h1>
    <p><i><strong> Dog lover over here! &#128072;</strong></i></p> 
