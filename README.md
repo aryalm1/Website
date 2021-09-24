@@ -1,10 +1,8 @@
 
 <head>
-    
-    <div style="text-align: center;background-color: tomato; " id="clock">
+   <div style="text-align: center;background-color: tomato; " id="clock">
         <u> Manisha's Website </u>
-    </div>
-    
+   </div>
 </head> 
 <body>
    <b> I am creating a website using GitHub. All suggestions are welcome!</b>
