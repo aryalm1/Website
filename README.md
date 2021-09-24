@@ -1,5 +1,8 @@
 
 <head>
+   <style>
+      body{background-image: url(https://github.com/aryalm1/Website/blob/main/img-allo.jpeg?raw=true)}
+   </style>
    <div style="text-align: center;background-color: tomato; " id="clock">
       <u><strong> Manisha's Website </u></strong>
    </div>
@@ -13,5 +16,4 @@
    <img src="https://github.com/aryalm1/Website/blob/main/img-allo.jpeg?raw=true" width="350" alt="Hoddu">
    </p>
 </body>
-
 
