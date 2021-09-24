@@ -1,6 +1,6 @@
 
 <head>
-    <div style="text-align: center;background-color: rgb(150, 161, 255);  " id="clock">
+    <div style="text-align: center;background-color: tomato;  " id="clock">
         <u> Manisha's Website </u>
 </div>
 </head> 
