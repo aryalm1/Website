@@ -1,6 +1,10 @@
 
 <head>
-  <style body= background-image: url("https://github.com/aryalm1/Website/blob/main/Fav.jpg?raw=true") </style>
+  <style 
+         {
+         body= background-image: url("https://github.com/aryalm1/Website/blob/main/Fav.jpg?raw=true")
+         }
+         </style>
  <br>
  <div style="text-align: center;font:Sans-serif; background-color: tomato; " id="clock">
        Manisha's Website
