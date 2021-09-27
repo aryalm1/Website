@@ -2,7 +2,7 @@
 <head>
   <style>
   body {
-    background-image: url('https://github.com/aryalm1/Website/blob/main/img-allo.jpeg?raw=true');
+    background-image: url('https://github.com/aryalm1/Website/blob/main/Fav.jpg');
     background-repeat: no-repeat;
        }
 </style>
