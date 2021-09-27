@@ -1,10 +1,10 @@
 
 <head>
   <style>
-body {
-  background-image: url("https://github.com/aryalm1/Website/blob/main/img-allo.jpeg?raw=true");
+  body {
+    background-image: url('https://github.com/aryalm1/Website/blob/main/img-allo.jpeg?raw=true');
     background-repeat: no-repeat;
-}
+       }
 </style>
  <br>
  <div style="text-align: center;font:Sans-serif; background-color: tomato; " id="clock">
