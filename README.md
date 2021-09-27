@@ -1,9 +1,9 @@
 
 <head>
   <style 
-         {
-         body= background-image: url("https://github.com/aryalm1/Website/blob/main/Fav.jpg?raw=true")
-         }
+         div {
+             background-image: url('https://github.com/aryalm1/Website/blob/main/img-allo.jpeg?raw=true');
+         </div>
          </style>
  <br>
  <div style="text-align: center;font:Sans-serif; background-color: tomato; " id="clock">
